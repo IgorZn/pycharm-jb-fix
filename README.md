@@ -3,3 +3,5 @@
 3. Restart, Install
 4. JetbrainsAgent Helper dialog, click install button
 5. Restart, готово.
+
+https://masuit.com/1191
