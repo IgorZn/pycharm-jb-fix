@@ -10,3 +10,4 @@ add
 Some details:
 
     https://ntcde.com/phan-mem-hay/jetbrains-license-server-jetbrains-agent-jar.html
+    https://masuit.com/1191
